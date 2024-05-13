@@ -41,7 +41,7 @@
 <br>
 
 <h1>💭 포트폴리오 💭</h1>
-<a href="여기에 노션 주소 넣기" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+<a href="https://ajar-aquarius-c96.notion.site/965a3de13beb4eefa574da9b930880d6" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 
 <br>
 <br>
