@@ -41,8 +41,7 @@
 <br>
 
 <h1>💭 포트폴리오 💭</h1>
-<a href="[https://remarkable-wind-488.notion.site/4ac99da6cc37445fa0518804dbdf6c14?pvs=4](https://showy-emmental-592.notion.site/a8264859767045ada45543c21bf99e69)" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
-<a href="https://www.canva.com/design/DAF9ggg7h2w/_0WbW9wlcQG2dYhqVAocJg/view?utm_content=DAF9ggg7h2w&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><img src="https://img.shields.io/badge/portfolio-ADD8E6?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=ffffff"/></a>
+<a href="여기에 노션 주소 넣기" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 
 <br>
 <br>
@@ -52,17 +51,17 @@
 
 </div>
 
-[![hyunnnni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyunnnni&theme=Default)](https://github.com/hyunnnni/github-readme-activity-graph)
+[![dongki08's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dongki08&theme=Default)](https://github.com/dongki08/github-readme-activity-graph)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunnnni&layout=compact)](https://github.com/hyunnnni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongki08&layout=compact)](https://github.com/dongki08/github-readme-stats)
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyunnnni&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyunnnni&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hyunnnni&theme=graywhite&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dongki08&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dongki08&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dongki08&theme=graywhite&utcOffset=8)
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=wruoma)](https://solved.ac/wruoma) -->
 
